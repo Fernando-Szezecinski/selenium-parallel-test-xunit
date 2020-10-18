@@ -3,6 +3,6 @@ Simple example of how to work with xUnit parallel test execution and selenium mu
 
 Tech stack:
 
-.Net core 3.1
-xUnit 2.4.x
-WebDriverManager 2.11.x
+- .Net core 3.1
+- xUnit 2.4.x
+- WebDriverManager 2.11.x
