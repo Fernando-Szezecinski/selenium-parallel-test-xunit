@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "selenium-parallel-test-xunit", "selenium-parallel-test-xunit\selenium-parallel-test-xunit.csproj", "{6379ED4D-1019-4855-95B2-4F0EE086C78C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6379ED4D-1019-4855-95B2-4F0EE086C78C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6379ED4D-1019-4855-95B2-4F0EE086C78C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6379ED4D-1019-4855-95B2-4F0EE086C78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6379ED4D-1019-4855-95B2-4F0EE086C78C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8169004C-C61A-4594-8928-72093EB55027}
+	EndGlobalSection
+EndGlobal
